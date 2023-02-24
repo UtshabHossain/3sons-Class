@@ -1,0 +1,10 @@
+.firstHeading{
+    background-color: lightblue;
+    padding-top: 5%; 
+}
+
+.imageFromCss{
+    height: 500px;
+    width: 100%;
+    background-image: url('./buildings-gff3509977_1920.jpg');
+}

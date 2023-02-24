@@ -1,0 +1,29 @@
+.btnStyle{
+    margin-top: 100px;
+    text-decoration: none;
+    color: green;
+    border: 2px solid green;
+    padding: 10px;
+    border-radius: 10px;
+}
+.btnStyle:hover{
+    background-color: green;
+    color: white;
+}
+
+.btnPosition{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+
+.cssParentDiv p{
+    color: red;
+}
+
+/* ul{
+    list-style: square inside url("../img1.jpg");
+} */
+li{
+    display: inline;
+}
